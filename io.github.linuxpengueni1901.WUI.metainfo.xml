@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.linuxpengueni1901.WUI</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>WUI</name>
+  <summary>Wine User Interface - A simple wrapper to run Windows apps</summary>
+  <description>
+    <p>
+      WUI (Wine User Interface) is a modern Linux desktop application that simplifies running Windows executables (.exe) using Wine.
+      Instead of typing commands in the terminal, you can simply browse for your file and launch it with a single click.
+    </p>
+  </description>
+  <launchable type="desktop-id">io.github.linuxpengueni1901.WUI.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main interface of WUI</caption>
+      <image>https://raw.githubusercontent.com/linuxpengueni1901/WUI/main/assets/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/linuxpengueni1901/WUI</url>
+  <provides>
+    <binary>wui</binary>
+  </provides>
+  <releases>
+    <release version="1.0.0" date="2025-12-29" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

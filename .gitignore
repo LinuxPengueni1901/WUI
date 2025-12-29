@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.flatpak-builder/
+build/
+.vscode/
+.idea/
+*.desktop
+!io.github.linuxpengueni1901.WUI.desktop

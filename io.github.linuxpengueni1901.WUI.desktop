@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WUI
+Comment=Wine User Interface
+Exec=wui
+Icon=io.github.linuxpengueni1901.WUI
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupWMClass=io.github.linuxpengueni1901.WUI
